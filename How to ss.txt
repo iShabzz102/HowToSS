@@ -51,7 +51,7 @@
     What this does, it logs every executable program in a key.
     Search the whole thing, if you see any "Keys" of any hack client you can go ahead and deal with the User!
     you can do strg+f to search for more Keys if you would like, but it does take a lot of time.
-    DISCLAIMER -> Do not delete or modify any keys in the users pc, because it can break the pc easily!
+    DISCLAIMER -> Do not delete or modify any keys in the users pc, because it can break the pc easily!!!!!!
 
 11. Google search history -> strg+h (Works only in chrome)
            |\/|
@@ -60,7 +60,7 @@
 
 13. Check if the user has a USB plugged in -> Check for an arrow bottom right and see if there is any. -> IF you see any USB, you can go ahead and ask the user -> "for what Purpose does the USB have?"
     There is a program for usb usage history and it can be downloaded in this link, (https://www.nirsoft.net/utils/usbdeview-x64.zip)
-    Check if there is anything suspicious.
+    Check if there is anything suspicious. (The blue ones are connected.)
 
 14. Check if they are using macros -> Search if they have the "Razer Synapse" and the "Logitech" program on their pc -> Check if they have macros installed.
 
@@ -88,3 +88,6 @@ This Tutorial will get updated over time after I get more intelligence because I
 
 made with love ~James
 Discord : 𝙅𝙖𝙢𝙚𝙨#3085
+Youtube: OnlyJames
+
+Have fun in the future :)
